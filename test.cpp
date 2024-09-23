@@ -190,3 +190,4 @@ int isPlacementValid(int x, int y, int size, char direction, char board[BOARD_SI
 
     return 1; // Geçerli yerleştirme
 }
+// bir tane commit atalım bakalım anlaşılcak mı ?
